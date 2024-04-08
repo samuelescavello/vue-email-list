@@ -11,3 +11,7 @@ li{
 #app{
     width: 1000px;
 }
+.btn{
+    color: brown;
+    border: 1px solid brown;
+}
